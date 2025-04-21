@@ -1,1 +1,3 @@
 # CryptoBudget
+
+Cryptocurrency trends blog
